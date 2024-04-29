@@ -1,6 +1,6 @@
 # Trabalho sobre Princípios SOLID em GoLang
 
-Este repositório contém exemplos de código em GoLang que demonstram a aplicação dos princípios SOLID (Single Responsibility, Open-Closed, Liskov Substitution e Interface Segregation.
+Este repositório contém exemplos de código em GoLang que demonstram a aplicação dos princípios SOLID (Single Responsibility, Open-Closed, Liskov Substitution e Interface Segregation).
 
 ## Como executar os códigos em GoLang no Visual Studio Code
 
