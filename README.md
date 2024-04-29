@@ -12,7 +12,7 @@ Para executar os códigos em GoLang neste repositório no Visual Studio Code, si
     
 3. **Configure o ambiente Go**: Abra o Visual Studio Code e instale a extensão "Go" (extensão oficial do Go para o Visual Studio Code) na barra lateral. Isso facilitará o desenvolvimento em GoLang.
     
-4. **Clone este repositório**: No terminal do Visual Studio Code ou em um terminal externo, clone este repositório para sua máquina local usando o seguinte comando:
+4. **Clone este repositório**: No terminal do Visual Studio Code ou em um terminal externo, clone este repositório para sua máquina local.
   
 5. **Abra o projeto no Visual Studio Code**: No Visual Studio Code, abra a pasta do projeto clonado usando "File" > "Open Folder" e selecionando a pasta do projeto.
     
